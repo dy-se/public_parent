@@ -1,0 +1,3 @@
+[submodule "private_child_1"]
+	path = private_child_1
+	url = https://github.com/dy-se/private_child_1
